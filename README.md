@@ -34,22 +34,6 @@ A full-stack movie search application built with **Java Spring Boot (Backend)** 
 - Bootstrap 5 + React-Bootstrap
 - Responsive design
 
-## Project Structure
-
-omdb-movie-explorer/
-├── backend/ # Spring Boot API
-│ ├── src/main/java/com/example/omdbapi/
-│ │ ├── controller/OmdbController.java
-│ │ ├── service/OmdbService.java
-│ │ ├── config/CacheConfig.java
-│ │ ├── config/CorsGlobalConfig.java
-│ │ └── OmdbApiApplication.java
-│ └── pom.xml
-├── frontend/ # React UI
-│ ├── src/App.js
-│ ├── src/MovieDetails.js
-│ └── package.json
-└── README.md
 
 ## How to Run Locally
 
