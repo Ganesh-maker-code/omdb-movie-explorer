@@ -1,0 +1,12 @@
+# Node.js
+frontend/node_modules/
+frontend/build/
+
+# Java / Spring Boot
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/*.log
+
+# Environment files
+*.env
